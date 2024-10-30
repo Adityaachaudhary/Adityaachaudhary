@@ -14,10 +14,11 @@
 - 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-prakash-chaudhary-89a121220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-prakash-chaudhary-89a121220/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aditya_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aditya_28/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/adityachaudharycs21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/adityachaudharycs21/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-prakash-chaudhary-89a121220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-prakash-chaudhary-89a121220/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com//u/aditya_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="/u/aditya_28/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/adityachaudharycs21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/adityachaudharycs21/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
