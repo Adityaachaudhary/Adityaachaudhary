@@ -114,14 +114,6 @@
 
 ---
 
-### 🎯 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaachaudhary&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true&include_all_commits=true&hide_rank=false" width="55%" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
