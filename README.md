@@ -114,10 +114,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🎯 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaachaudhary&theme=monokai&no-frame=false&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaachaudhary&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true&include_all_commits=true&hide_rank=false" width="55%" />
 </p>
 
 ---
