@@ -6,19 +6,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaachaudhary" alt="adityaachaudhary" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js**
-
-- 💬 Ask me about **anything related to MERN stack and related technologies**
 
 - 📫 How to reach me **adityaprakaksh.280102@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/aditya-prakash-chaudhary-89a121220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-prakash-chaudhary-89a121220/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adityachaudhary28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-prakash-chaudhary-89a121220" height="30" width="40" /></a>
 <a href="https://www.leetcode.com//u/aditya_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="/u/aditya_28/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adityachaudharycs21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityachaudharycs21/" height="30" width="40" /></a>
-</p>
+<!-- <a href="https://auth.geeksforgeeks.org/user/adityachaudharycs21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityachaudharycs21/" height="30" width="40" /></a>
+</p> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
