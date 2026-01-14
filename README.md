@@ -22,6 +22,26 @@
 - 🎨 **Creative Designer:** Merging 3D aesthetics with modern UI/UX
 - 📫 **Reach me:** adityaprakaksh.280102@gmail.com
 
+### 📊 Most Used Languages
+
+<div align="center">
+
+<!-- Option 1: Using alternative service -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityaachaudhary&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&langs_count=8" width="50%" />
+
+</div>
+
+<!-- ALTERNATIVE SERVICES IF ABOVE DOESN'T WORK:
+
+Option 2: GitHub Profile Summary Cards
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaachaudhary&theme=radical" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityaachaudhary&theme=radical" width="48%" />
+
+Option 3: Streak Stats (shows languages too)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaachaudhary&theme=radical" />
+
+-->
+
 <br clear="right"/>
 
 ---
