@@ -52,7 +52,6 @@
   <img src="https://img.shields.io/badge/RAG-Expertise-blueviolet?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM-Llama%20%26%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20DB-Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
 </p>
 </details>
 
@@ -118,7 +117,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaachaudhary&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&row=2&column=4" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adityaachaudhary&theme=monokai&no-frame=false&row=1&column=6" />
 </p>
 
 ---
