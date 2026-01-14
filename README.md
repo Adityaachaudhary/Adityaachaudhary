@@ -116,30 +116,23 @@
 
 ### 📊 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaachaudhary&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&langs_count=10" width="50%" />
-</p>
+<div align="center">
 
-<details>
-<summary><b>View More Language Stats</b></summary>
-<br>
+<!-- Option 1: Using alternative service -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityaachaudhary&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&langs_count=8" width="50%" />
 
-**Donut Chart View:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaachaudhary&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff" width="45%" />
-</p>
+</div>
 
-**Pie Chart View:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaachaudhary&layout=pie&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff" width="45%" />
-</p>
+<!-- ALTERNATIVE SERVICES IF ABOVE DOESN'T WORK:
 
-**Without HTML/CSS:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaachaudhary&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&hide=html,css" width="50%" />
-</p>
+Option 2: GitHub Profile Summary Cards
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaachaudhary&theme=radical" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityaachaudhary&theme=radical" width="48%" />
 
-</details>
+Option 3: Streak Stats (shows languages too)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaachaudhary&theme=radical" />
+
+-->
 
 ---
 
