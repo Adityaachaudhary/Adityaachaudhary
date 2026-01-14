@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Prakash+Chaudhary;Full+Stack+Developer;AI+%26+LLM+Explorer;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Prakash+Chaudhary;Full+Stack+Developer;Frontend+Developer;Software+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,10 +17,11 @@
 
 ### 🚀 About Me
 
-- 🔭 **Current Focus:** Building production-grade **RAG Applications**
+- 🔭 **Current Focus:** Building production-grade scalable applications
 - 🧠 **AI/ML Enthusiast:** Exploring **LLMs**, LangChain & Vector Databases
 - 🎨 **Creative Designer:** Merging 3D aesthetics with modern UI/UX
 - 📫 **Reach me:** adityaprakaksh.280102@gmail.com
+
 
 <br clear="right"/>
 
@@ -30,7 +31,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adityachaudhary28/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.leetcode.com/u/aditya_28/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
@@ -52,7 +53,6 @@
   <img src="https://img.shields.io/badge/LLM-Llama%20%26%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector%20DB-Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 </details>
 
@@ -118,18 +118,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaachaudhary&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adityaachaudhary&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&row=2&column=4" width="100%" alt="GitHub Trophies"/>
 </p>
-
----
-
-### 📈 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityaachaudhary/adityaachaudhary/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityaachaudhary/adityaachaudhary/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adityaachaudhary/adityaachaudhary/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
